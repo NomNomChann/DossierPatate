@@ -1,0 +1,39 @@
+body{
+    /**/
+    background-image: url(../Assets/Fond.jpg) ;
+    color: rgb(93, 0, 187);
+    font-weight: 600;
+}
+
+#forrest{
+    /*display:flex;
+    flex-wrap: wrap;*/
+    margin-top: 52px;
+}
+
+.zonetext{
+    border: 1px rgb(93 , 0 , 187) solid;
+    border-radius: 5px;
+    padding-left: 20%;
+    
+}
+
+footer{
+    display: flex;
+    background-color: wheat;
+    font-size: larger;
+}
+
+footer *{
+    margin-left: 3px;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+a{
+    color: rgb(93, 0, 187);
+}
+
+a:hover{
+    color: black;
+}
